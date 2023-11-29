@@ -5,6 +5,8 @@
 // Первоначальный массив можно ввести с клавиатуры, 
 // либо задать на старте выполнения алгоритма.
 
+// Вариант 1
+
 string text = 
             "Hello, a2, world, :-)" +
 			"1234, 156, -2, Ok, computer science," +
@@ -38,4 +40,4 @@ string ChoiceWords(string txt)
 	return result;
 }
 string res = ChoiceWords(txt);
-Console.Write("["+ txt +"] ->"+' '+"["+ res +"]"); // не разделяет выбранные слова ("res")
+Console.Write("["+ txt +"] ->"+' '+"["+ res +"]");
