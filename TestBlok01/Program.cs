@@ -17,3 +17,25 @@ string[] words = phrase.Split(' ', ',');
 
 foreach (var word in words)
 if (word.Length <= 3) Console.Write(word +' ');
+
+
+// Вариант 2 
+
+string txt = 
+            "Hello, 2, world, :-)"+
+			"1234, 1567, -2, computer science"+
+			"Russia, Denmark, Kazan";
+
+string ChoiceWords(string txt)
+{
+	string result = String.Empty;
+	string phrase = txt;
+	string[] words = phrase.Split(' ', ',');
+
+	foreach (var word in words)
+	
+	if (word.Length <= 3) result += word;	
+	return result;
+}
+string res = ChoiceWords(txt);
+Console.Write("["+ txt +"] ->"+' '+"["+ res +"]"); // не разделяет выбранные слова ("res")
