@@ -1,0 +1,14 @@
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\bin\Debug\net7.0\TestBlok01.exe
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\bin\Debug\net7.0\TestBlok01.deps.json
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\bin\Debug\net7.0\TestBlok01.runtimeconfig.json
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\bin\Debug\net7.0\TestBlok01.dll
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\bin\Debug\net7.0\TestBlok01.pdb
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.AssemblyInfo.cs
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.dll
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\refint\TestBlok01.dll
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.pdb
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\TestBlok01.genruntimeconfig.cache
+C:\Users\Vitaliy\GeekBrains\ControlWork\TestBlok01\obj\Debug\net7.0\ref\TestBlok01.dll
